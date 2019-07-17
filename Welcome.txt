@@ -1,6 +1,6 @@
 <html>
 <head>
-<h1> Hello bro </h1>
+<h1 color="red"> Hello bro </h1>
 
 </head>
 <title>
